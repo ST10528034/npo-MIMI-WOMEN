@@ -288,3 +288,265 @@ Products and services page
 design 
 Development and testing 
 Final submission
+
+PART 2 CHANGES MADE
+PART 1 IMPROVEMENTS 
+
+WEBSITE FEATURES AND FUNCTIONALITY  
+
+HOME PAGE: 
+
+ Logo and name:   
+
+ 
+
+Figure 1: Mimi women. [s.a.]. Mimi women website logo.   
+
+Slogan – “Breaking taboos to empower women”.  
+
+Brief history and about the founder of mimi women. 
+
+Call to action buttons 
+
+ 
+
+ABOUT US PAGE 
+
+Organisation history 
+
+Founder of mimi women 
+
+Mission and vision of mimi women 
+
+ 
+
+DESIRED FUNCTIONALITY  
+
+Website is easy to navigate - users can easily navigate and move through the website and find the information they need without confusion or difficulty. The website has clear structure, organised menus, properly labelled pages, and simple pathways that guide users from one section to another. 
+
+ 
+
+ Able to respond quickly – webpages can load fast and provide quick responses to user actions and enquiries. When users click buttons, submit or search for information or open pages. 
+
+ 
+
+ Secure payment safety – a secure payment system allows visitors to donate money safely through the website. Users can use multiple payment methods and payment tracking systems. The system ensures that payment information such as bank details, passwords and personal data cannot be stolen or hacked into. 
+
+ 
+
+Mobile responsiveness – the website can automatically adjust and display properly on different screen sizes such as smartphones, tablets, laptops and desktop computers. Users can comfortably view content without zooming in or struggling to navigate. 
+
+ 
+
+Search functionality – as the website grows and contains more information, users need a fast way to locate content, it saves users time, improves website usability, helps visitors quickly find programmes, events or contact details. 
+
+ 
+
+Social media integration - creates a stronger online presence and improves communication, encourages audience engagement, helps promote events quickly and drives traffic between the website and social media pages. 
+
+ 
+
+FOR ALL WEB PAGES (CHANGES) 
+
+I changed the design and user experience colors and removed red as it was disturbing the website's aesthetic. 
+
+I removed all the horizontal lines on all webpages as it was disturbing the CSS styling. 
+
+I removed all slashes before the words on the navigation  
+
+ 
+
+UPDATED REFERENCES 
+
+Africa Energy [n.d.] Standard Bank sponsor logo. [Online image] Available at: <https://www.africa.energy.com/storage/55729/Standard-Bank-sponsor.png > [Accessed: 18 April 2026]. 
+
+ 
+
+Batzofin, D. (2020) Karongwe portfolio logo. [Online image] Available at: <https://travelandthings.co.za/content/uploads/2020/01/Karongwe-Portfolio-Logo.png >[Accessed: 18 April 2026]. 
+
+ 
+
+DG Vaishnav College (2011) Deloitte logo. [Electronic print] Available at: <https://www.relativity.com/sites/relativity/cache/file/DB260D6C-D7E3-47AF-AE349C22E27B795E_Wauto_H300.png >[Accessed: 18 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 1: Mimi women website logo. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2020/09/cropped-logo-1.png> [Accessed: 6 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 2: School in Soweto. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimiwomen-9-1-800x450.jpg > [Accessed: 6 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 3: Education about menstruation on Nelson Mandela Day. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-15-2.jpg > [Accessed: 6 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 4: Picture of man educating about menstruation on Nelson Mandela Day. [Online image] Available at:< https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-23-1.jpg > [Accessed: 6 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 5: School in Soweto. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimiwomen-27-800x450.jpg > [Accessed: 6 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 6: Mimi women pads. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimi-WomenDiepsloot-18.jpg > [Accessed: 6 April 2026]. 
+
+ 
+
+Mimi Women [n.d.] Figure 7: Mimi Women sanitary pads vending machine. [Online image] Available at: <https://i.ytimg.com/vi/A_f08dlhd2w/hqdefault.jpg > [Accessed: 6 April 2026]. 
+
+ 
+
+Malope, F.K. (2026) Figure 8: Screenshots showing call-to-action buttons from Mimi Women website. [Personal collection] Unpublished. 
+
+ 
+
+GTChaane Quantity Surveyors and Project Managers (2019) Wesizwe logo. [Electronic print] Available at: <https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1502857390/qgapyu4jwkrsseknegwd.png?ik-sanitizeSvg=true > [Accessed: 18 April 2026]. 
+
+ 
+
+HOSTAFRICA (2026) Find your new domain. [Online] Available at: <https://www.hostafrica.com> [Accessed: 10 April 2026]. 
+
+ 
+
+Ivanhoe Mines (2023) Ivanhoe Mines logo. [PNG] Available at: <https://www.ivanhoemines.com/wp-content/themes/ivanhoemines/img/logo.png?v2 > [Accessed: 18 April 2026]. 
+
+ 
+
+Jun, L. (1988) WPS Office, version 12.2.0.23196. [App] Available from: Google Play [Accessed: 12 April 2026]. 
+
+ 
+
+Life Assurance (2013) Liberty life insurance. [Online image] Available at: <https://www.lifeassurance.org.za/wp-content/uploads/2013/04/Liberty-Life-Life-Insurance.jpg > [Accessed: 18 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi women-45. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/09/Mimiwomen-45-800x450.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi women upload. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/09/36-800x450.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi women-28. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/09/Mimiwomen-28-800x450.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi women-15. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/09/Mimiwomen-15-800x450.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi women-40. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/09/Mimiwomen-40-800x450.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi-womendiepsloot-08. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimi-WomenDiepsloot-08.jpg> [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi-womendiepsloot-22. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimi-WomenDiepsloot-22.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi-womendiepsloot-07. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimi-WomenDiepsloot-7.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimi-womendiepsloot-19. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/Mimi-WomenDiepsloot-19.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimiwomenmandela-day-64. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-64.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimiwomenmandela-day-68. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-68.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimiwomenmandela-day-75. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-75.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimiwomenmandela-day-82. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-82.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2023) Mimiwomenmandela-day-83. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2023/10/MimiwomenMandela-Day-83.jpg > [Accessed: 16 April 2026]. 
+
+ 
+
+Mimi Women (2020) Mimi sanitary pads | Empowering girls and women in Africa. [Online] Available at: < https://mimiwomen.com > [Accessed: 20 March 2026]. 
+
+ 
+
+Mimi Women (2020) Image from Mimi Women website. [PNG] Available at: <https://mimiwomen.com/wp-content/uploads/2020/11/3.png > [Accessed: 18 April 2026]. 
+
+ 
+
+Mimi Women (2020) Corporate logo/graphic. [Online image] Available at: <https://mimiwomen.com/wp-content/uploads/2020/11/9.png> [Accessed: 18 April 2026]. 
+
+ 
+
+NAACAM (2020) CRH-Africa logo. [Electronic print] Available at: < https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEDYp8bfzJuWc7_wo_Mlony2SG0cQQBvUzQ&s> [Accessed: 18 April 2026]. 
+
+ 
+
+Naidu, R. (2022) Global HR headlines: Unilever to get 1,500 managers, more leave days at Google. [Electronic print] Available at: <https://logos-world.net/wp-content/uploads/2022/01/Unilever-Logo.jpg > [Accessed: 18 April 2026]. 
+
+ 
+
+PicknPay Evaton Mall (2022) PicknPay logo. [Electronic print] Available at: <https://cavendish.co.za/content/uploads/picknpay.jpg > [Accessed: 18 April 2026]. 
+
+ 
+
+Redbull Amaphiko Academy – My Creative Community (2023) Redbull Amaphiko. [Electronic print] Available at: <https://mir-s3-cdn-cf.behance.net/projects/404/ed9b88202404155.Y3JvcCwxMzU2LDEwNjEsMzIyLDQ3MA.png > [Accessed: 18 April 2026]. 
+
+ 
+
+Roche Green Lease Leaders (2023) Roche logo. [Electronic print] Available at: <https://cdn.cookielaw.org/logos/d83b6e8f-2787-46e5-b85f-ad52b3a0acb6/de6e24cb-c908-4452-a497-cc68f539fb08/6b9c2746-9945-4ae5-9048-4be5552ccc1c/Roche_Logo_800px_Blue_RGB_Roche_Logo_RGB_(1).png > [Accessed: 18 April 2026]. 
+
+ 
+
+Sibisi, G.S. (2024) Old Mutual rallies behind transformation and empowerment. [Electronic print] Available at: < https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6s8WZAmDrSpGzKS7AVjCxbS_sog7nzg7IIg&s > [Accessed: 18 April 2026]. 
+
+ 
+
+Small Enterprise Development Agency [no date] SEDA logo. [Online image] Available at: <https://www.dsbd.gov.za/sites/default/files/styles/large/public/field/image/seda-transparent.png?itok=yjot3qAw > [Accessed: 18 April 2026]. 
+
+ 
+
+STANLIB [no date] STANLIB login interface image. [PNG] Available at: <https://login.stanlib.com/STANLIB_NEW_CI.png > [Accessed: 18 April 2026]. 
+
+ 
+
+The IDC is looking for a COO (2025) [Electronic print] Available at: <https://businessexplainer.co.za/wp-content/uploads/2025/11/IDC-course-thumbnail-01.png> [Accessed: 18 April 2026]. 
+
+ 
+
+Uynewsdesk [no date] Corporate image. [Online image] Available at: <https://mndassets.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,q_auto:good,w_600/fxl1frjqsl7zrzwaineu > [Accessed: 18 April 2026]. 
+
+ 
+
+Wikimedia Commons [no date] ABSA logo. [Online image] Available at: <https://upload.wikimedia.org/wikipedia/commons/a/ae/Absa_Logo.svg > [Accessed: 18 April 2026]. 
+
+ 
+
+Wikimedia Commons [no date] SABMiller logo. [Online image] Available at: <https://upload.wikimedia.org/wikipedia/commons/d/dc/SABMiller_logo.svg> [Accessed: 18 April 2026]. 
+
+  
+
+NEW RERENCES FOR PART 2 
+
+W3Schools, 2026. CSS Tutorial.  Available at: <https://www.w3schools.com/css/default.asp > [Accessed: 29 May 2026]. 
+
+ 
+
+ 
+
+   
+
+ 
+
