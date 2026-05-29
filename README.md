@@ -178,3 +178,113 @@ rzwaineu> [accessed 18 April 2026]
 45. Wikimedia commons, [s.a.]. SABMiller logo. [online image] available at: 
 <https://upload.wikimedia.org/wikipedia/commons/d/dc/SABMiller_logo.svg> [accessed 18 April 
 2026].
+
+
+    UPDATES MADE:
+    MIMI WOMEN
+
+    FORTUNATE KUTLWANO MALOPE
+    ST10528034
+    GROUP 3
+
+    ORGANISATION OVERVIEW 
+NAME: MIMI WOMEN  
+HISTORY OF THE ORGANISATION: 
+MIMI WOMEN is South Africa's first black female-owned sanitary pads company founded and 
+headed by Ramona Kasavan since 2014. Ramona Kasavan is a founder, social entrepreneur, 
+former media personality, advocate for women empowerment, award winner, motivational speaker 
+and CEO. These are some of the descriptions that make Ramona. Unapologetically feminine, 
+Ramona was born and raised in KZN on a farm where basic life necessities like water and electricity 
+were a struggle. 
+She grew to understand that sanitary etiquette is a real problem in disadvantaged areas, it is on 
+these grounds that Kisa Africa was founded in 2014 (today formally known as Mimi Women). It 
+promotes girl-child education through the sponsorship of Kasavan’s own brand of sanitary pads. 
+She is open for motivational talks. 
+From inception, the goal has always been to empower girls and women in some of South Africa's 
+poorest areas. The social enterprise has committed itself to keeping the girl children in school 
+whether they are on their periods or not, by donating sanitary pads to disadvantaged communities. 
+MISSION STATEMENT 
+It is our mission to enable every girl coming of age and young in need to be afforded the basic 
+provision of sanitary pads, thus keeping them in school or university, affording them to 
+academically excel. 
+VISION STATEMENT 
+A future where menstruation is not a barrier, stigma or struggle for any girl 
+TARGET AUDIENCE 
+Girls in school 
+Donors and sponsors 
+NGOs and stakeholder 
+WEBSITE GOALS AND OBJECTIVES 
+Goals: 
+− Provide education about menstruation 
+− Keep girls in school 
+− End period poverty 
+Key objectives: 
+• Distribute sanitary pads to disadvantaged schools and communities 
+• Encourage donations and partnerships/sponsors 
+• Promote hygiene and awareness 
+KPI FOR MIMI WOMEN WEBSITE 
+IN THE BEGINNING 
+CURRENTLY 
+Donations and sponsors were low 
+Mimi now sells Pads and vending machines to raise 
+funds to be able to donate pads to girl children in 
+schools. Sponsors are now more than enough. 
+Low Website traffic  
+More people know about Mimi women and visit the 
+website more often. 
+low statistics 
+Mimi women post more school visits and the 
+number of schools and girls they have helped 
+Volunteer sign-ups 
+People can now sign up to be volunteers 
+ratings 
+Website rating levels are increasing 
+These KPIs will help the website’s performance, improve customer experience, and increase sales growth. 
+CURRENT WEBSITE ANALYSIS. 
+Strengths  
+▫ Clear mission, vision and purpose 
+▫ Clear target audience 
+▫ Donation and support focus 
+▫ Product information available  
+▫ Simple and easy to navigate  
+Weaknesses  
+▫ Weak digital marketing  
+▫ Limited online visibility and interactivity 
+▫ Limited funding  
+▫ Sustainability issues 
+AREAS FOR IMPROVEMENT 
+1. Brand awareness and marketing 
+2. More Funding and financial stability 
+3. Sustainable programs that last and do not perish
+
+    TIMELINE AND MILESTONES 
+TIME 
+TO DO  
+1 week 
+Research and planning 
+1 week 
+Writing proposal 
+2 days 
+homepage 
+1 day 
+About us page 
+1 day 
+Sponsors page  
+1 day 
+Gallery  
+1 hour 
+Donate page 
+5 hours 
+Contact us page 
+1 hour 
+Add cart page 
+1 hour 
+1 day 
+1 week 
+5 days 
+1 day 
+Search page 
+Products and services page 
+design 
+Development and testing 
+Final submission
