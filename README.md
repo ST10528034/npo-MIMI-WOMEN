@@ -542,6 +542,47 @@ NEW RERENCES FOR PART 2
 
 W3Schools, 2026. CSS Tutorial.  Available at: <https://www.w3schools.com/css/default.asp > [Accessed: 29 May 2026]. 
 
+
+PART 3 CHANGES AND IMPROVEMENTS
+
+PART 3 IMPROVEMENTS
+
+For every picture I used for the website, I added an alternative text to describe that picture.
+
+I removed all slashes on the navigation.
+
+I added forms which are for search, contact and enquiry form where customers can send messages, contact us or send enquiries.
+
+I added a map that directs people to Mimi women organisation offices.
+
+I added a lightbox and slideshow.
+
+I made descriptive commits regurlarly on VS.
+
+I improved my read me document.
+
+I deployed my website on netlify.
+
+I added meta data on all web pages.
+
+I used internal and external javascript.
+
+I added emailjs so that when users send messages or enquiries, they will go to my email.
+
+UPDATED REFERENCE LIST FOR PART 3
+
+1.Bro Code, 2023. HTML & CSS Full Course for free 🌎. [video online] YouTube. Available at: <https://www.youtube.com/watch?v=HGTJBPNC-Gw> [Accessed 18 June 2026].
+
+2.CodeEasy, 2024.Send Email from HTML Form for free | EmailJS. [video online] YouTube. Available at: <(358) Send Email from HTML Form for Free | EmailJS - YouTube> [Accessed 18 June 2026].
+
+3.EmailJS, 2026. EmailJS. [online] Available at: <EmailJS Official Website> [Accessed 18 June 2026].
+
+4.Netlify, 2026. Push your ideas to the web. [online] Available at: <https://www.netlify.com/> [Accessed 19 June 2026].
+
+W3Schools, 2026. W3Schools Online Web Tutorials. [online] Available at: <https://www.w3schools.com/> [Acc
+
+
+
  
 
  
